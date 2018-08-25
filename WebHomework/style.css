@@ -1,0 +1,43 @@
+﻿body {
+    background-color: linen;
+}
+
+p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    color: brown;
+}
+
+a {
+    text-decoration: none;
+    color: darkviolet;
+    font-size: 20pt;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
+.menu {
+    float: left;
+}
+
+.header a {
+    float: left;
+}
+
+.col {
+    /*font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    position: relative;*/
+    background-color: cornflowerblue;
+    float: left;
+    width: 33%;
+}
+
+.col p {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 16pt;
+        color: brown;
+    }
